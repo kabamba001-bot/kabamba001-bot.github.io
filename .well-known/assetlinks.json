@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kabamba001_bot.twa",
+        "sha256_cert_fingerprints": ["A6:84:F9:19:AF:B3:FD:B8:31:F7:67:8D:42:85:3F:6F:F8:CF:DA:48:DA:BB:80:AE:00:BA:CB:3B:F5:99:ED:3D"]
+      }
+    }]
