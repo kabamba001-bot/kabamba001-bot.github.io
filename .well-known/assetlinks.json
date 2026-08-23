@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.kabamba001_bot.twa",
-        "sha256_cert_fingerprints": ["A6:84:F9:19:AF:B3:FD:B8:31:F7:67:8D:42:85:3F:6F:F8:CF:DA:48:DA:BB:80:AE:00:BA:CB:3B:F5:99:ED:3D"]
+        "sha256_cert_fingerprints": ["84:44:1A:8D:FC:00:5A:DF:C0:7A:DF:92:C2:14:7F:C2:88:39:25:D9:C8:8E:E0:16:DD:6F:36:33:FE:D1:1E:07"]
       }
     }]
