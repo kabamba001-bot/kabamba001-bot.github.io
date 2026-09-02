@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.web.mombongo_15323.twa",
-        "sha256_cert_fingerprints": ["90:5C:6A:1F:A2:BB:B9:54:C0:1B:F5:25:2C:5A:4D:FF:AA:52:1D:15:65:2D:8E:95:84:DE:3E:CC:2E:EF:C5:C7"]
+        "package_name": "app.web.mombongocongo.twa",
+        "sha256_cert_fingerprints": ["22:3A:0C:2E:BB:D5:DB:69:BF:3C:2B:D9:B9:86:1B:BC:9E:7B:93:07:D4:4D:82:7D:10:1F:72:91:E7:DF:EA:40"]
       }
     }]
