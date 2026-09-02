@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.kabamba001_bot.twa",
-        "sha256_cert_fingerprints": ["84:44:1A:8D:FC:00:5A:DF:C0:7A:DF:92:C2:14:7F:C2:88:39:25:D9:C8:8E:E0:16:DD:6F:36:33:FE:D1:1E:07"]
+        "package_name": "app.web.mombongo_15323.twa",
+        "sha256_cert_fingerprints": ["90:5C:6A:1F:A2:BB:B9:54:C0:1B:F5:25:2C:5A:4D:FF:AA:52:1D:15:65:2D:8E:95:84:DE:3E:CC:2E:EF:C5:C7"]
       }
     }]
